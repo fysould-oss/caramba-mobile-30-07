@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "20261_pam2_tabita_yasmin_1",
-    "slug": "20261_pam2_tabita_yasmin_1",
+    "name": "20261_pam2_vitor_daniel_1",
+    "slug": "20261_pam2_vitor_daniel_1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "20261pam2tabitayasmin1",
+    "scheme": "20261pam2vitordaniel1",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
